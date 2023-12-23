@@ -1,0 +1,15 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner{
+    background-image: url(/assets/img/bg\ image.jpg);
+    padding: 230px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.skills-padding{
+    padding: 70px 0;
+}
